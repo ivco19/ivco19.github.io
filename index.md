@@ -84,7 +84,7 @@ respuestas al virus en función de la edad de los individuos.
 
 -   [Centro Franco Argentino de Ciencias de la Información y de Sistemas (CIFASIS-UNR)](https://www.cifasis-conicet.gov.ar/)
 -   [Instituto de Astronomía Teórica y Experimental (IATE-OAC-UNC)](http://iate.oac.uncor.edu/)
--   [Facultad de Matemática Física y Computación (FaMAF-UNC)](https://www.famaf.unc.edu.ar/)
+-   [Facultad de Matemática Astronomía Física y Computación (FaMAF-UNC)](https://www.famaf.unc.edu.ar/)
 -   [Laboratorio de Ingeniería y Mantenimiento Industrial
     (LIMI-FCEFyN-UNC)](https://fcefyn.unc.edu.ar/facultad/secretarias/extension/prosecretaria-de-vinculacion-tecnologica/centro-de-transferencia-y-servicios/centro-de-vinculacion-del-centro-de-asesoramiento-matematico-a-procesos-organizacionales/)
 -   [Instituto De Estadística Y Demografía - Facultad de Ciencias Económicas (IED-FCE-UNC)](http://www.eco.unc.edu.ar/instituto-de-estadistica-y-demografia)
