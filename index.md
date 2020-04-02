@@ -1,8 +1,7 @@
 Grupo de trabajo Arcovid19
 ==========================
 
-**Contacto:** Dr. Juan Cabral
-[*jbc.develop@gmail.com*](mailto:jbc.develop@gmail.com)
+**Contacto:** jbc.develop@gmail.com
 
 El grupo multidisciplinario **Arcovid19** busca diseñar herramientas
 para el soporte de decisiones frente a la actual pandemia de COVID-19 en
@@ -20,11 +19,9 @@ diseñado para tolerar errores y datos duplicados con relativa facilidad.
 **Brooks** también está diseñado para integrar las funcionalidades de
 los otros productos.
 
--   **Descarga:**
-    > [*https://github.com/ivco19/brooks*](https://github.com/ivco19/brooks)
+-   **Descarga:** [*https://github.com/ivco19/brooks*](https://github.com/ivco19/brooks)
 
--   **Video demo:**
-    > [*https://www.youtube.com/watch?v=nuDhyLOc\_og*](https://www.youtube.com/watch?v=nuDhyLOc_og)
+-   **Video demo:** [*https://www.youtube.com/watch?v=nuDhyLOc\_og*](https://www.youtube.com/watch?v=nuDhyLOc_og)
 
 Base de datos oficiales y explotación
 -------------------------------------
@@ -34,16 +31,14 @@ en los medios oficiales diariamente para obtener una base de datos
 útiles para el soporte de decisiones. También se creó una herramienta
 para el análisis y el cálculo de errores de esta base.
 
--   **Base de datos:** [*Click aquí para visualizar la
-    > base*](https://docs.google.com/spreadsheets/d/e/2PACX-1vTfinng5SDBH9RSJMHJk28dUlW3VVSuvqaBSGzU-fYRTVLCzOkw1MnY17L2tWsSOppHB96fr21Ykbyv/pub) -
-    > (Descargar para Excel:
-    > [*Aquí*](https://github.com/ivco19/libs/raw/master/databases/cases.xlsx))
+-   **Base de datos:** [*Click aquí para visualizar la base*](https://docs.google.com/spreadsheets/d/e/2PACX-1vTfinng5SDBH9RSJMHJk28dUlW3VVSuvqaBSGzU-fYRTVLCzOkw1MnY17L2tWsSOppHB96fr21Ykbyv/pub) -
+    (Descargar para Excel: [*Aquí*](https://github.com/ivco19/libs/raw/master/databases/cases.xlsx))
 
 -   **Herramienta de análisis:**
-    > [*https://arcovid19.readthedocs.io/*](https://arcovid19.readthedocs.io/en/latest/?badge=latest)
+    [*https://arcovid19.readthedocs.io/*](https://arcovid19.readthedocs.io/en/latest/?badge=latest)
 
 -   **Video demo de la herramienta:**
-    > [*https://www.youtube.com/watch?v=VBRtnJFF6UQ*](https://www.youtube.com/watch?v=VBRtnJFF6UQ)
+    [*https://www.youtube.com/watch?v=VBRtnJFF6UQ*](https://www.youtube.com/watch?v=VBRtnJFF6UQ)
 
 Generación de escenarios epidemiológicos
 ----------------------------------------
@@ -53,13 +48,12 @@ epidemiológicos, para la búsqueda del aplanamiento de la curva. Esta
 herramienta consume los datos del punto anterior para ajustar sus
 resultados al estado actual de la situación del país.
 
--   **Descarga:**
-    > [*https://github.com/ivco19/epcalc*](https://github.com/ivco19/epcalc)
-
--   **Video demo:**
-    > [*https://youtu.be/-80n4NJxfZA*](https://youtu.be/-80n4NJxfZA)
-
 -   **Versión online:** *https://epacalc-arg.now.sh/*
+-   **Descarga:**
+    [*https://github.com/ivco19/epcalc*](https://github.com/ivco19/epcalc)
+-   **Video demo:**
+    [*https://youtu.be/-80n4NJxfZA*](https://youtu.be/-80n4NJxfZA)
+
 
 Comparación de escenarios epidemiológicos
 -----------------------------------------
@@ -74,31 +68,31 @@ respuestas al virus en función de la edad de los individuos.
 
 ### Miembros del grupo
 
--   Dr. Juan B Cabral (CIFASIS-UNR, IATE-OAC-UNC).
--   Lic. Vanessa Daza (IATE-OAC-UNC, FaMAF-UNC).
--   Dr. Mariano Dominguez (IATE-OAC-UNC, FaMAF-UNC).
--   Dr. Marcelo Lares (IATE-OAC-UNC, FaMAF-UNC).
--   Mgt. Nadia Luczywo (LIMI-FCEFyN-UNC, IED-FCE-UNC, FCA-IUA-UNDEF)
--   Dr. Dante Paz (IATE-OAC-UNC, FaMAF-UNC).
--   Dr. Rodrigo Quiroga (INFIQC-CFQ, FCQ-UNC).
--   Dr. Martín de los Ríos (ICTP-SAIFR).
--   Dr. Bruno Sanchez (Department of Physics, Duke University).
--   Dr. Federico Stasyszyn (IATE-OAC, FaMAF-UNC).
+-   Juan B Cabral (CIFASIS-UNR, IATE-OAC-UNC).
+-   Vanessa Daza (IATE-OAC-UNC, FaMAF-UNC).
+-   Mariano Dominguez (IATE-OAC-UNC, FaMAF-UNC).
+-   Marcelo Lares (IATE-OAC-UNC, FaMAF-UNC).
+-   Nadia Luczywo (LIMI-FCEFyN-UNC, IED-FCE-UNC, FCA-IUA-UNDEF)
+-   Dante Paz (IATE-OAC-UNC, FaMAF-UNC).
+-   Rodrigo Quiroga (INFIQC-CFQ, FCQ-UNC).
+-   Martín de los Ríos (ICTP-SAIFR).
+-   Bruno Sanchez (Department of Physics, Duke University).
+-   Federico Stasyszyn (IATE-OAC, FaMAF-UNC).
 
 ### Instituciones
 
 -   Centro Franco Argentino de Ciencias de la Información y de Sistemas
-    > (CIFASIS-UNR)
+    (CIFASIS-UNR)
 -   Instituto de Astronomía Teórica y Experimental (IATE-OAC-UNC)
 -   Facultad de Matemática Física y Computación (FaMAF-UNC)
 -   Laboratorio de Ingeniería y Mantenimiento Industrial
-    > (LIMI-FCEFyN-UNC)
+    (LIMI-FCEFyN-UNC)
 -   Instituto De Estadística Y Demografía - Facultad de Ciencias
-    > Económicas (IED-FCE-UNC)
+    Económicas (IED-FCE-UNC)
 -   Department of Physics, Duke University
 -   Facultad de Ciencias de la Administración (FCA-IUA-UNDEF)
 -   Instituto de Investigaciones en Físico-Química de Córdoba
-    > (INFIQC-CONICET)
+    (INFIQC-CONICET)
 -   ICTP South American Institute for Fundamental Research (ICTP-SAIFR)
 
 
