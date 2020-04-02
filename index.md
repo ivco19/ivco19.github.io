@@ -66,6 +66,8 @@ introducir las distribuciones estadísticas de los parámetros medidos
 para analizar su efecto a largo plazo, teniendo en cuenta las distintas
 respuestas al virus en función de la edad de los individuos.
 
+----
+
 ### Miembros del grupo
 
 -   Juan B Cabral (CIFASIS-UNR, IATE-OAC-UNC).
