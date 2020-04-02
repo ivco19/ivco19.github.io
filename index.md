@@ -1,5 +1,3 @@
-Grupo de trabajo Arcovid19
-==========================
 
 **Contacto:** jbc.develop@gmail.com
 
