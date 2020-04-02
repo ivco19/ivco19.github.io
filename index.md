@@ -66,7 +66,7 @@ respuestas al virus en función de la edad de los individuos.
 
 ### Miembros del grupo
 
--   Juan B Cabral (CIFASIS-UNR, IATE-OAC-UNC) - **Contacto:** jbc.develop@gmail.com
+-   Juan B Cabral (CIFASIS-UNR, IATE-OAC-UNC) - **Contacto:** jbcabral@unc.edu.ar
 -   Vanessa Daza (IATE-OAC-UNC, FaMAF-UNC).
 -   Mariano Dominguez (IATE-OAC-UNC, FaMAF-UNC).
 -   Marcelo Lares (IATE-OAC-UNC, FaMAF-UNC).
