@@ -44,7 +44,7 @@ epidemiológicos, para la búsqueda del aplanamiento de la curva. Esta
 herramienta consume los datos del punto anterior para ajustar sus
 resultados al estado actual de la situación del país.
 
--   **Versión online:** *https://epacalc-arg.now.sh/*
+-   **Versión online:** [*https://epacalc-arg.now.sh/*](https://epacalc-arg.now.sh/)
 -   **Descarga:**
     [*https://github.com/ivco19/epcalc*](https://github.com/ivco19/epcalc)
 -   **Video demo:**
