@@ -89,10 +89,10 @@ respuestas al virus en función de la edad de los individuos.
     (LIMI-FCEFyN-UNC) (https://fcefyn.unc.edu.ar/facultad/secretarias/extension/prosecretaria-de-vinculacion-tecnologica/centro-de-transferencia-y-servicios/centro-de-vinculacion-del-centro-de-asesoramiento-matematico-a-procesos-organizacionales/
 -   Instituto De Estadística Y Demografía - Facultad de Ciencias
     Económicas (IED-FCE-UNC) - http://www.eco.unc.edu.ar/instituto-de-estadistica-y-demografia
--   Department of Physics, Duke University 
+-   Department of Physics, Duke University - https://phy.duke.edu/
 -   Facultad de Ciencias de la Administración (FCA-IUA-UNDEF) - https://www.iua.edu.ar/
 -   Instituto de Investigaciones en Físico-Química de Córdoba
-    (INFIQC-CONICET)
--   ICTP South American Institute for Fundamental Research (ICTP-SAIFR)
+    (INFIQC-CONICET) - http://infiqc-fcq.psi.unc.edu.ar/
+-   ICTP South American Institute for Fundamental Research (ICTP-SAIFR) - https://www.ictp-saifr.org/
 
 
