@@ -62,11 +62,14 @@ introducir las distribuciones estadísticas de los parámetros medidos
 para analizar su efecto a largo plazo, teniendo en cuenta las distintas
 respuestas al virus en función de la edad de los individuos.
 
+- Proyecto: [https://github.com/ivco19/countries](https://github.com/ivco19/countries)
+- Documentación: [https://ivcov19-countries.readthedocs.io](https://ivcov19-countries.readthedocs.io)
+
 ----
 
 ### Miembros del grupo
 
--   Juan B Cabral (CIFASIS-UNR, IATE-OAC-UNC) - **Contacto:** jbcabral@unc.edu.ar
+-   Juan B Cabral (CIFASIS-UNR, IATE-OAC-UNC).
 -   Vanessa Daza (IATE-OAC-UNC, FaMAF-UNC).
 -   Mariano Dominguez (IATE-OAC-UNC, FaMAF-UNC).
 -   Marcelo Lares (IATE-OAC-UNC, FaMAF-UNC).
@@ -90,4 +93,6 @@ respuestas al virus en función de la edad de los individuos.
 -   [Instituto de Investigaciones en Físico-Química de Córdoba (INFIQC-CONICET)](http://infiqc-fcq.psi.unc.edu.ar/)
 -   [ICTP South American Institute for Fundamental Research (ICTP-SAIFR)](https://www.ictp-saifr.org/)
 
+### Contacto
 
+[jbcabral@unc.edu.ar](jbcabral@unc.edu.ar)
