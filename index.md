@@ -1,6 +1,4 @@
 
-**Contacto:** jbc.develop@gmail.com
-
 El grupo multidisciplinario **Arcovid19** busca diseñar herramientas
 para el soporte de decisiones frente a la actual pandemia de COVID-19 en
 la Argentina y el mundo.
@@ -68,7 +66,7 @@ respuestas al virus en función de la edad de los individuos.
 
 ### Miembros del grupo
 
--   Juan B Cabral (CIFASIS-UNR, IATE-OAC-UNC).
+-   Juan B Cabral (CIFASIS-UNR, IATE-OAC-UNC) - **Contacto:** jbc.develop@gmail.com
 -   Vanessa Daza (IATE-OAC-UNC, FaMAF-UNC).
 -   Mariano Dominguez (IATE-OAC-UNC, FaMAF-UNC).
 -   Marcelo Lares (IATE-OAC-UNC, FaMAF-UNC).
