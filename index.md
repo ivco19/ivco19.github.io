@@ -1,37 +1,104 @@
-## Welcome to GitHub Pages
+Grupo de trabajo Arcovid19
+==========================
 
-You can use the [editor on GitHub](https://github.com/ivco19/ivco.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Contacto:** Dr. Juan Cabral
+[*jbc.develop@gmail.com*](mailto:jbc.develop@gmail.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+El grupo multidisciplinario **Arcovid19** busca diseñar herramientas
+para el soporte de decisiones frente a la actual pandemia de COVID-19 en
+la Argentina y el mundo.
 
-### Markdown
+Se centra en 5 ejes de trabajo/productos todos disponibles libre y
+gratuitamente.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Carga rápida de datos 
+----------------------
 
-```markdown
-Syntax highlighted code block
+**Brooks** es una herramienta de software libre destinada a la carga
+rápida de datos epidemiológicos desde planillas de cálculo. Está
+diseñado para tolerar errores y datos duplicados con relativa facilidad.
+**Brooks** también está diseñado para integrar las funcionalidades de
+los otros productos.
 
-# Header 1
-## Header 2
-### Header 3
+-   **Descarga:**
+    > [*https://github.com/ivco19/brooks*](https://github.com/ivco19/brooks)
 
-- Bulleted
-- List
+-   **Video demo:**
+    > [*https://www.youtube.com/watch?v=nuDhyLOc\_og*](https://www.youtube.com/watch?v=nuDhyLOc_og)
 
-1. Numbered
-2. List
+Base de datos oficiales y explotación
+-------------------------------------
 
-**Bold** and _Italic_ and `Code` text
+Se cura y se concilia de manera automatizada la información disponible
+en los medios oficiales diariamente para obtener una base de datos
+útiles para el soporte de decisiones. También se creó una herramienta
+para el análisis y el cálculo de errores de esta base.
 
-[Link](url) and ![Image](src)
-```
+-   **Base de datos:** [*Click aquí para visualizar la
+    > base*](https://docs.google.com/spreadsheets/d/e/2PACX-1vTfinng5SDBH9RSJMHJk28dUlW3VVSuvqaBSGzU-fYRTVLCzOkw1MnY17L2tWsSOppHB96fr21Ykbyv/pub) -
+    > (Descargar para Excel:
+    > [*Aquí*](https://github.com/ivco19/libs/raw/master/databases/cases.xlsx))
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-   **Herramienta de análisis:**
+    > [*https://arcovid19.readthedocs.io/*](https://arcovid19.readthedocs.io/en/latest/?badge=latest)
 
-### Jekyll Themes
+-   **Video demo de la herramienta:**
+    > [*https://www.youtube.com/watch?v=VBRtnJFF6UQ*](https://www.youtube.com/watch?v=VBRtnJFF6UQ)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ivco19/ivco.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Generación de escenarios epidemiológicos
+----------------------------------------
 
-### Support or Contact
+Se modificó un programa para la generación de escenarios
+epidemiológicos, para la búsqueda del aplanamiento de la curva. Esta
+herramienta consume los datos del punto anterior para ajustar sus
+resultados al estado actual de la situación del país.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-   **Descarga:**
+    > [*https://github.com/ivco19/epcalc*](https://github.com/ivco19/epcalc)
+
+-   **Video demo:**
+    > [*https://youtu.be/-80n4NJxfZA*](https://youtu.be/-80n4NJxfZA)
+
+-   **Versión online:** *https://epacalc-arg.now.sh/*
+
+Comparación de escenarios epidemiológicos
+-----------------------------------------
+
+Utilización de herramientas de visualización para comparar la evolución
+de la pandemia en distintos países, teniendo en cuenta sus respectivas
+estrategias para prevenir el crecimiento en el número de contagios.
+Implementación de un modelo compartimental numérico que permite
+introducir las distribuciones estadísticas de los parámetros medidos
+para analizar su efecto a largo plazo, teniendo en cuenta las distintas
+respuestas al virus en función de la edad de los individuos.
+
+### Miembros del grupo
+
+-   Dr. Juan B Cabral (CIFASIS-UNR, IATE-OAC-UNC).
+-   Lic. Vanessa Daza (IATE-OAC-UNC, FaMAF-UNC).
+-   Dr. Mariano Dominguez (IATE-OAC-UNC, FaMAF-UNC).
+-   Dr. Marcelo Lares (IATE-OAC-UNC, FaMAF-UNC).
+-   Mgt. Nadia Luczywo (LIMI-FCEFyN-UNC, IED-FCE-UNC, FCA-IUA-UNDEF)
+-   Dr. Dante Paz (IATE-OAC-UNC, FaMAF-UNC).
+-   Dr. Rodrigo Quiroga (INFIQC-CFQ, FCQ-UNC).
+-   Dr. Martín de los Ríos (ICTP-SAIFR).
+-   Dr. Bruno Sanchez (Department of Physics, Duke University).
+-   Dr. Federico Stasyszyn (IATE-OAC, FaMAF-UNC).
+
+### Instituciones
+
+-   Centro Franco Argentino de Ciencias de la Información y de Sistemas
+    > (CIFASIS-UNR)
+-   Instituto de Astronomía Teórica y Experimental (IATE-OAC-UNC)
+-   Facultad de Matemática Física y Computación (FaMAF-UNC)
+-   Laboratorio de Ingeniería y Mantenimiento Industrial
+    > (LIMI-FCEFyN-UNC)
+-   Instituto De Estadística Y Demografía - Facultad de Ciencias
+    > Económicas (IED-FCE-UNC)
+-   Department of Physics, Duke University
+-   Facultad de Ciencias de la Administración (FCA-IUA-UNDEF)
+-   Instituto de Investigaciones en Físico-Química de Córdoba
+    > (INFIQC-CONICET)
+-   ICTP South American Institute for Fundamental Research (ICTP-SAIFR)
+
+
