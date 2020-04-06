@@ -6,8 +6,7 @@ la Argentina y el mundo.
 Se centra en 5 ejes de trabajo/productos todos disponibles libre y
 gratuitamente.
 
-Carga rápida de datos 
-----------------------
+## Carga rápida de datos 
 
 **Brooks** es una herramienta de software libre destinada a la carga
 rápida de datos epidemiológicos desde planillas de cálculo. Está
@@ -19,8 +18,8 @@ los otros productos.
 
 -   **Video demo:** [*https://www.youtube.com/watch?v=nuDhyLOc\_og*](https://www.youtube.com/watch?v=nuDhyLOc_og)
 
-Base de datos oficiales y explotación
--------------------------------------
+
+## Base de datos oficiales y explotación
 
 Se cura y se concilia de manera automatizada la información disponible
 en los medios oficiales diariamente para obtener una base de datos
@@ -36,8 +35,7 @@ para el análisis y el cálculo de errores de esta base.
 -   **Video demo de la herramienta:**
     [*https://www.youtube.com/watch?v=VBRtnJFF6UQ*](https://www.youtube.com/watch?v=VBRtnJFF6UQ)
 
-Generación de escenarios epidemiológicos
-----------------------------------------
+## Generación de escenarios epidemiológicos
 
 Se modificó un programa para la generación de escenarios
 epidemiológicos, para la búsqueda del aplanamiento de la curva. Esta
@@ -51,8 +49,7 @@ resultados al estado actual de la situación del país.
     [*https://youtu.be/-80n4NJxfZA*](https://youtu.be/-80n4NJxfZA)
 
 
-Comparación de escenarios epidemiológicos
------------------------------------------
+## Comparación de escenarios epidemiológicos
 
 Utilización de herramientas de visualización para comparar la evolución
 de la pandemia en distintos países, teniendo en cuenta sus respectivas
@@ -66,6 +63,10 @@ respuestas al virus en función de la edad de los individuos.
 - Documentación: [https://ivcov19-countries.readthedocs.io](https://ivcov19-countries.readthedocs.io)
 
 ----
+
+## Notas de prensa
+
+- [Proyecto Arcovid19: Herramientas para ayudar a entender y combatir el Coronavirus (OAC-UNC)](https://oac.unc.edu.ar/2020/04/04/proyecto-arcovid19-herramientas-para-ayudar-a-entender-y-combatir-el-coronavirus/)
 
 ### Miembros del grupo
 
