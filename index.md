@@ -66,7 +66,10 @@ respuestas al virus en función de la edad de los individuos.
 
 ## Notas de prensa
 
-- [Proyecto Arcovid19: Herramientas para ayudar a entender y combatir el Coronavirus (OAC-UNC)](https://oac.unc.edu.ar/2020/04/04/proyecto-arcovid19-herramientas-para-ayudar-a-entender-y-combatir-el-coronavirus/)
+> Lares, M., & Rubenstein, V. (2020, April 4). Proyecto Arcovid19: Herramientas para ayudar a entender y combatir el 
+> Coronavirus. Retrieved April 6, 2020, from https://oac.unc.edu.ar/2020/04/04/proyecto-arcovid19-herramientas-para-ayudar-a-entender-y-combatir-el-coronavirus/
+>
+> [Enlace](https://oac.unc.edu.ar/2020/04/04/proyecto-arcovid19-herramientas-para-ayudar-a-entender-y-combatir-el-coronavirus/)
 
 ### Miembros del grupo
 
