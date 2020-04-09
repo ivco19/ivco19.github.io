@@ -77,7 +77,7 @@ respuestas al virus en función de la edad de los individuos.
 >
 > [Enlace](https://elgatoylacaja.com.ar/comerse-la-curva/)
 
-> Aldo Lagarto Guizzardi (presentador), Lares, M., & Cabral, J. (entrevistados). (8 de Abril, 2020).  Arcovid, el soporte que permite entender el Coronavirus[programa de TV].  Pierino (productor ejecutivo).  El Show del Lagarto. Córdoba, Argentina:  EldoceTV (TELECOR SACI)
+> Aldo Lagarto Guizzardi (presentador), Lares, M., & Cabral, J. (entrevistados). (8 de Abril, 2020). Arcovid, el soporte que permite entender el Coronavirus[programa de TV]. Canal12. Artear (productor ejecutivo). El Show del Lagarto. Córdoba, Argentina: EldoceTV (TELECOR SACI)
 >
 > [Enlace](https://youtu.be/zL3g5-NTP0c)
 
