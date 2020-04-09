@@ -16,7 +16,7 @@ los otros productos.
 
 -   **Descarga:** [*https://github.com/ivco19/brooks*](https://github.com/ivco19/brooks)
 -   **Video demo:** [*https://www.youtube.com/watch?v=nuDhyLOc\_og*](https://www.youtube.com/watch?v=nuDhyLOc_og)
--   **Demo online:** [https://brooks-covid19.herokuapp.com/ ][https://brooks-covid19.herokuapp.com/]
+-   **Demo online:** [https://brooks-covid19.herokuapp.com/ ](https://brooks-covid19.herokuapp.com/)
 
 
 ## Base de datos oficiales y explotación
