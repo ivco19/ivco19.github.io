@@ -71,6 +71,12 @@ respuestas al virus en función de la edad de los individuos.
 >
 > [Enlace](https://oac.unc.edu.ar/2020/04/04/proyecto-arcovid19-herramientas-para-ayudar-a-entender-y-combatir-el-coronavirus/)
 
+> Aldo Lagarto Guizzardi (presentador), Lares, M., & Cabral, J. (entrevistados). (8 de Abril, 2020).  Arcovid, el soporte que permite entender el Coronavirus[programa de TV].  Pierino(productor ejecutivo).  El Show del Lagarto. Córdoba, Argentina:  EldoceTV (TELECOR SACI)
+>
+> [Enlace](https://youtu.be/zL3g5-NTP0c)
+>
+
+
 ### Miembros del grupo
 
 -   Juan B Cabral (CIFASIS-UNR, IATE-OAC-UNC).
