@@ -66,6 +66,11 @@ respuestas al virus en función de la edad de los individuos.
 
 ## Notas de prensa
 
+> Mención de Herramientas desarrolladas por el Grupo en:
+> Pablo A. González. (2020, Abril 5). Comerse la curva. Revista El gato y la caja. Retrieved April 9, 2020, from https://elgatoylacaja.com.ar/comerse-la-curva/
+>
+> [Enlace](https://elgatoylacaja.com.ar/comerse-la-curva/)
+
 > Lares, M., & Rubenstein, V. (2020, April 4). Proyecto Arcovid19: Herramientas para ayudar a entender y combatir el 
 > Coronavirus. Retrieved April 6, 2020, from https://oac.unc.edu.ar/2020/04/04/proyecto-arcovid19-herramientas-para-ayudar-a-entender-y-combatir-el-coronavirus/
 >
@@ -74,7 +79,6 @@ respuestas al virus en función de la edad de los individuos.
 > Aldo Lagarto Guizzardi (presentador), Lares, M., & Cabral, J. (entrevistados). (8 de Abril, 2020).  Arcovid, el soporte que permite entender el Coronavirus[programa de TV].  Pierino (productor ejecutivo).  El Show del Lagarto. Córdoba, Argentina:  EldoceTV (TELECOR SACI)
 >
 > [Enlace](https://youtu.be/zL3g5-NTP0c)
->
 
 
 ### Miembros del grupo
