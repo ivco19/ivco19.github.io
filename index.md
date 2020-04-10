@@ -89,7 +89,6 @@ respuestas al virus en función de la edad de los individuos.
 -   Nadia Luczywo (LIMI-FCEFyN-UNC, IED-FCE-UNC, FCA-IUA-UNDEF)
 -   Dante Paz (IATE-OAC-UNC, FaMAF-UNC).
 -   Rodrigo Quiroga (INFIQC-CFQ, FCQ-UNC).
--   Martín de los Ríos (ICTP-SAIFR).
 -   Bruno Sanchez (Department of Physics, Duke University).
 -   Federico Stasyszyn (IATE-OAC, FaMAF-UNC).
 
@@ -104,7 +103,6 @@ respuestas al virus en función de la edad de los individuos.
 -   [Department of Physics, Duke University](https://phy.duke.edu/)
 -   [Facultad de Ciencias de la Administración (FCA-IUA-UNDEF)](https://www.iua.edu.ar/)
 -   [Instituto de Investigaciones en Físico-Química de Córdoba (INFIQC-CONICET)](http://infiqc-fcq.psi.unc.edu.ar/)
--   [ICTP South American Institute for Fundamental Research (ICTP-SAIFR)](https://www.ictp-saifr.org/)
 
 ### Contacto
 
