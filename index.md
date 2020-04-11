@@ -64,20 +64,24 @@ respuestas al virus en función de la edad de los individuos.
 
 ## Notas de prensa
 
-
-> Lares, M., & Rubenstein, V. (2020, April 4). Proyecto Arcovid19: Herramientas para ayudar a entender y combatir el 
-> Coronavirus. Retrieved April 6, 2020, from https://oac.unc.edu.ar/2020/04/04/proyecto-arcovid19-herramientas-para-ayudar-a-entender-y-combatir-el-coronavirus/
+> Aldo Lagarto Guizzardi (presentador), Lares, M., & Cabral, J. (entrevistados). (8 de Abril, 2020). Arcovid, el soporte que permite entender el Coronavirus[programa de TV]. Canal12. Artear (productor ejecutivo). El Show del Lagarto. Córdoba, Argentina: EldoceTV (TELECOR SACI)
 >
-> [Enlace](https://oac.unc.edu.ar/2020/04/04/proyecto-arcovid19-herramientas-para-ayudar-a-entender-y-combatir-el-coronavirus/)
+> [Enlace](https://youtu.be/zL3g5-NTP0c)
 
 > Mención de Herramientas desarrolladas por el Grupo en:
 > Pablo A. González. (2020, Abril 5). Comerse la curva. Revista El gato y la caja. Retrieved April 9, 2020, from https://elgatoylacaja.com.ar/comerse-la-curva/
 >
 > [Enlace](https://elgatoylacaja.com.ar/comerse-la-curva/)
 
-> Aldo Lagarto Guizzardi (presentador), Lares, M., & Cabral, J. (entrevistados). (8 de Abril, 2020). Arcovid, el soporte que permite entender el Coronavirus[programa de TV]. Canal12. Artear (productor ejecutivo). El Show del Lagarto. Córdoba, Argentina: EldoceTV (TELECOR SACI)
+> Lares, M., & Rubenstein, V. (2020, April 4). Proyecto Arcovid19: Herramientas para ayudar a entender y combatir el 
+> Coronavirus. Retrieved April 6, 2020, from https://oac.unc.edu.ar/2020/04/04/proyecto-arcovid19-herramientas-para-ayudar-a-entender-y-combatir-el-coronavirus/
 >
-> [Enlace](https://youtu.be/zL3g5-NTP0c)
+> [Enlace](https://oac.unc.edu.ar/2020/04/04/proyecto-arcovid19-herramientas-para-ayudar-a-entender-y-combatir-el-coronavirus/)
+
+> Vázquez A. (2020, April 2). Pandemia de datos II [Episodio 35] [Audio and Video podcast]. from 
+> https://avdata99.github.io/cadena-de-datos/s02e35-pandemia-de-datos-ii.html 
+>
+> [Enlace](https://avdata99.github.io/cadena-de-datos/s02e35-pandemia-de-datos-ii.html)
 
 
 ### Miembros del grupo
