@@ -68,6 +68,10 @@ respuestas al virus en función de la edad de los individuos.
 >
 > [Enlace](https://youtu.be/zL3g5-NTP0c)
 
+> Prensa UNC (2020, April 6). Investigadores del Observatorio Astronómico de Córdoba proponen herramientas para ayudar a entender y combatir el coronavirus. Retrieved April 11, 2020, from https://www.unc.edu.ar/comunicaci%C3%B3n/investigadores-del-observatorio-astron%C3%B3mico-de-c%C3%B3rdoba-proponen-herramientas-para
+>
+> [Enlace](https://www.unc.edu.ar/comunicaci%C3%B3n/investigadores-del-observatorio-astron%C3%B3mico-de-c%C3%B3rdoba-proponen-herramientas-para)
+
 > Mención de Herramientas desarrolladas por el Grupo en:
 > Pablo A. González. (2020, Abril 5). Comerse la curva. Revista El gato y la caja. Retrieved April 9, 2020, from https://elgatoylacaja.com.ar/comerse-la-curva/
 >
