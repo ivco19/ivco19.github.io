@@ -33,6 +33,7 @@ para el análisis y el cálculo de errores de esta base.
 -   **Video demo de la herramienta:**
     [*https://www.youtube.com/watch?v=VBRtnJFF6UQ*](https://www.youtube.com/watch?v=VBRtnJFF6UQ)
 
+
 ## Generación de escenarios epidemiológicos
 
 Se modificó un programa para la generación de escenarios
@@ -49,8 +50,7 @@ resultados al estado actual de la situación del país.
 Por otro lado hemos reescrito el codigo de epcalc en con el stack científico de Python
 y lo hemos hecho disponible como un backend JSON+CSV. La aplicación completa esta
 disponible en [https://github.com/ivco19/epyRba](https://github.com/ivco19/epyRba)
-
-Por otra parte se encuentran disponibles ejemplos para los lenguajes [Javascript](https://github.com/ivco19/epyRba/blob/master/examples/fetch.js) y [Python]((https://github.com/ivco19/epyRba/blob/master/examples/fetch.py)
+Por otra parte se encuentran disponibles ejemplos para los lenguajes [Javascript](https://github.com/ivco19/epyRba/blob/master/examples/fetch.js) y [Python](https://github.com/ivco19/epyRba/blob/master/examples/fetch.py)
 
 -   **Versión online:** [*https://epyrba.herokuapp.com/*](https://epyrba.herokuapp.com/)
 -   **Descarga:**
