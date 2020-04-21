@@ -45,6 +45,16 @@ resultados al estado actual de la situación del país.
     [*https://github.com/ivco19/epcalc*](https://github.com/ivco19/epcalc)
 -   **Video demo:**
     [*https://youtu.be/-80n4NJxfZA*](https://youtu.be/-80n4NJxfZA)
+    
+Por otro lado hemos reescrito el codigo de epcalc en con el stack científico de Python
+y lo hemos hecho disponible como un backend JSON+CSV. La aplicación completa esta
+disponible en [https://github.com/ivco19/epyRba](https://github.com/ivco19/epyRba)
+
+Por otra parte se encuentran disponibles ejemplos para los lenguajes [Javascript](https://github.com/ivco19/epyRba/blob/master/examples/fetch.js) y [Python]((https://github.com/ivco19/epyRba/blob/master/examples/fetch.py)
+
+-   **Versión online:** [*https://epyrba.herokuapp.com/*](https://epyrba.herokuapp.com/)
+-   **Descarga:**
+    [*https://github.com/ivco19/epyrba*](https://github.com/ivco19/epyrba)
 
 
 ## Comparación de escenarios epidemiológicos
