@@ -74,6 +74,14 @@ respuestas al virus en función de la edad de los individuos.
 
 ## Notas de prensa
 
+> Periferia (2020, April 29). Como es la tecnología con la que se analizan los escenarios post-cuarentena. Retrieved April 29, 2020, from http://www.periferiaciencia.com.ar/noticia.php?n=899
+>
+> [Enlace](http://www.periferiaciencia.com.ar/noticia.php?n=899)
+
+> Pablo Esteban, Página 12 (2020, April 25). Coronavirus: Argentina comparada con Estados Unidos, Brasil y Chile. Retrieved April 29, 2020, from https://www.pagina12.com.ar/261982-coronavirus-argentina-comparada-con-estados-unidos-brasil-y-
+>
+> [Enlace](https://www.pagina12.com.ar/261982-coronavirus-argentina-comparada-con-estados-unidos-brasil-y-)
+
 > Aldo Lagarto Guizzardi (presentador), Lares, M., & Cabral, J. (entrevistados). (8 de Abril, 2020). Arcovid, el soporte que permite entender el Coronavirus[programa de TV]. Canal12. Artear (productor ejecutivo). El Show del Lagarto. Córdoba, Argentina: EldoceTV (TELECOR SACI)
 >
 > [Enlace](https://youtu.be/zL3g5-NTP0c)
