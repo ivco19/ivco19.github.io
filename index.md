@@ -32,6 +32,7 @@ para el análisis y el cálculo de errores de esta base.
     [*https://arcovid19.readthedocs.io/*](https://arcovid19.readthedocs.io/en/latest/?badge=latest)
 -   **Video demo de la herramienta:**
     [*https://www.youtube.com/watch?v=VBRtnJFF6UQ*](https://www.youtube.com/watch?v=VBRtnJFF6UQ)
+-   **Cliente web de la herramienta:** [https://arcovid19.herokuapp.com/](https://arcovid19.herokuapp.com/)
 
 
 ## Generación de escenarios epidemiológicos
