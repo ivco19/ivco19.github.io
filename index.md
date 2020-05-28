@@ -39,7 +39,7 @@ de escenarios epidemiológios (ver siguiente apartado).
 
 Se modificó un programa para la generación de escenarios
 epidemiológicos, para la búsqueda del aplanamiento de la curva. Esta
-herramienta consume los datos del punto anterior para ajustar sus
+herramienta consume los datos generados por Arcovid19 para ajustar sus
 resultados al estado actual de la situación del país.
 
 -   **Versión online:** [*https://epacalc-arg.now.sh/*](https://epacalc-arg.now.sh/)
