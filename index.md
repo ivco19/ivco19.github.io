@@ -117,7 +117,7 @@ respuestas al virus en función de la edad de los individuos.
 ## Charlas y seminarios
 
 - **Ciclo de charlas sobre propagación y evoluciónde epidemias** Se participó en la primera sesión del ciclo donde se abordó la temática *"Modelos matemáticos de propagación y evolución de epidemias"*. Se conto con la participación de investigadores del IFEG, IATE e IITEMA, entre otros, como disertantes de trabajos donde también colaboran investigadores de
-INFIQC y CIQUIBIC. [Link al anuncio anuncio](https://github.com/ivco19/ivco19.github.io/raw/master/images/seminario20200527.jpeg).
+INFIQC y CIQUIBIC. [Anuncio](https://github.com/ivco19/ivco19.github.io/raw/master/images/seminario20200527.jpeg).
 
 ## Miembros del grupo
 
