@@ -78,6 +78,9 @@ respuestas al virus en función de la edad de los individuos.
 
 ----
 
+
+
+
 ## Notas de prensa
 
 > Periferia (2020, April 29). Como es la tecnología con la que se analizan los escenarios post-cuarentena. Retrieved April 29, 2020, from http://www.periferiaciencia.com.ar/noticia.php?n=899
