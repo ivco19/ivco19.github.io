@@ -32,7 +32,6 @@ para el análisis y el cálculo de errores de esta base.
     [*https://arcovid19.readthedocs.io/*](https://arcovid19.readthedocs.io/en/latest/?badge=latest)
 -   **Video demo de la herramienta:**
     [*https://www.youtube.com/watch?v=VBRtnJFF6UQ*](https://www.youtube.com/watch?v=VBRtnJFF6UQ)
--   **Cliente web de la herramienta:** [https://arcovid19.herokuapp.com/](https://arcovid19.herokuapp.com/)
 
 
 ## Generación de escenarios epidemiológicos
@@ -56,6 +55,12 @@ Por otra parte se encuentran disponibles ejemplos para los lenguajes [Javascript
 -   **Versión online:** [*https://epyrba.herokuapp.com/*](https://epyrba.herokuapp.com/)
 -   **Descarga:**
     [*https://github.com/ivco19/epyrba*](https://github.com/ivco19/epyrba)
+    
+Tambien dentro de la libreria [Arcovid19](https://arcovid19.readthedocs.io/) implementamos modelos epidemiológicos
+compartimentados basados en grafo. Estos modelos posee una interfaz de exploración
+web la cual esta diponible online en:
+
+-   [https://arcovid19.herokuapp.com/](https://arcovid19.herokuapp.com/)
 
 
 ## Comparación de escenarios epidemiológicos
