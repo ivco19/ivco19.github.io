@@ -21,10 +21,11 @@ los otros productos.
 
 ## Base de datos oficiales y explotación
 
-Se cura y se concilia de manera automatizada la información disponible
+Mediante la libreria **Arcovid19** se cura y concilia de manera automatizada la información disponible
 en los medios oficiales diariamente para obtener una base de datos
 útiles para el soporte de decisiones. También se creó una herramienta
-para el análisis y el cálculo de errores de esta base.
+para el análisis y el cálculo de errores de esta base como así también un generador
+de escenarios epidemiológios (ver siguiente apartado).
 
 -   **Base de datos:** [*Click aquí para visualizar la base*](https://docs.google.com/spreadsheets/d/e/2PACX-1vTfinng5SDBH9RSJMHJk28dUlW3VVSuvqaBSGzU-fYRTVLCzOkw1MnY17L2tWsSOppHB96fr21Ykbyv/pub) -
     (Descargar para Excel: [*Aquí*](https://github.com/ivco19/libs/raw/master/databases/cases.xlsx))
@@ -57,10 +58,9 @@ Por otra parte se encuentran disponibles ejemplos para los lenguajes [Javascript
     [*https://github.com/ivco19/epyrba*](https://github.com/ivco19/epyrba)
     
 Tambien dentro de la libreria [Arcovid19](https://arcovid19.readthedocs.io/) implementamos modelos epidemiológicos
-compartimentados basados en grafo. Estos modelos posee una interfaz de exploración
-web la cual esta diponible online en:
+compartimentados basados en grafos. Estos modelos poseen una interfaz de exploración web la cual esta diponible online en:
 
--   [https://arcovid19.herokuapp.com/](https://arcovid19.herokuapp.com/)
+-  **Interfáz en Arcovid19** [https://arcovid19.herokuapp.com/](https://arcovid19.herokuapp.com/)
 
 
 ## Comparación de escenarios epidemiológicos
