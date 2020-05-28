@@ -111,8 +111,12 @@ respuestas al virus en función de la edad de los individuos.
 >
 > [Enlace](https://avdata99.github.io/cadena-de-datos/s02e35-pandemia-de-datos-ii.html)
 
+## Charlas y seminarios
 
-### Miembros del grupo
+- **Ciclo de charlas sobre propagación y evoluciónde epidemias** Se participó en la primera sesión del ciclo donde se abordó la temática *"Modelos matemáticos de propagación y evolución de epidemias"*. Se conto con la participación de investigadores del IFEG, IATE e IITEMA, entre otros, como disertantes de trabajos donde también colaboran investigadores de
+INFIQC y CIQUIBIC. [Link al anuncio anuncio](https://github.com/ivco19/ivco19.github.io/raw/master/images/seminario20200527.jpeg).
+
+## Miembros del grupo
 
 -   Juan B Cabral (CIFASIS-UNR, IATE-OAC-UNC).
 -   Vanessa Daza (IATE-OAC-UNC, FaMAF-UNC).
@@ -125,7 +129,7 @@ respuestas al virus en función de la edad de los individuos.
 -   Bruno Sanchez (Department of Physics, Duke University).
 -   Federico Stasyszyn (IATE-OAC, FaMAF-UNC).
 
-### Instituciones
+## Instituciones
 
 -   [Centro Franco Argentino de Ciencias de la Información y de Sistemas (CIFASIS-UNR)](https://www.cifasis-conicet.gov.ar/)
 -   [Instituto de Astronomía Teórica y Experimental (IATE-OAC-UNC)](http://iate.oac.uncor.edu/)
