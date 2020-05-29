@@ -90,7 +90,7 @@ Resolucón Rectoral UNDEF `114/2020` - **Soporte a la decisión ante COVID-19**:
 - Realizar un benchmarking para comparar la evolución de la pandemia en distintos países y que permita identificar las mejores prácticas para la prevención del número de contagios, con el propósito de facilitar la transferencia de éstas para los tomadores de decisiones.
 
 
-[PDF](https://github.com/ivco19/ivco19.github.io/raw/master/docs/res_114_20_UNDEFI.pdf)
+> Enlace a la resolución: [PDF](https://github.com/ivco19/ivco19.github.io/raw/master/docs/res_114_20_UNDEFI.pdf)
 
 
 
