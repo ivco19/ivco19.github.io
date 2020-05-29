@@ -76,8 +76,21 @@ respuestas al virus en función de la edad de los individuos.
 - Proyecto: [https://github.com/ivco19/countries](https://github.com/ivco19/countries)
 - Documentación: [https://ivcov19-countries.readthedocs.io](https://ivcov19-countries.readthedocs.io)
 
+
 ----
 
+
+## Financiaciamiento
+
+Resolucón Rectoral UNDEF `114/2020` - **Soporte a la decisión ante COVID-19**: Se Facilitaran los procesos de soporte a la decisión para aumentar la efectividad y confiabilidad de la respuesta ante la Pandemia de COVID-19 mediante el diseño, ejecución y la mejora de herramientas de software que promuevan la recolección, el resumen, el análisis y el reporte de datos.  	
+
+- Desarrollar una herramienta de software libre destinada a la carga rápida de datos epidemiológicos desde planillas de cálculo.
+- Producir, mantener y conciliar de manera automatizada  una base de datos contenedora de las informaciones oficiales, disponibles y diarias para el soporte de decisiones
+- Generar escenarios epidemiológicos mediante la implementación de modelos que permitan apreciar el estado actual de la situación del país.
+- Realizar un benchmarking para comparar la evolución de la pandemia en distintos países y que permita identificar las mejores prácticas para la prevención del número de contagios, con el propósito de facilitar la transferencia de éstas para los tomadores de decisiones.
+
+
+[PDF](https://github.com/ivco19/ivco19.github.io/raw/master/docs/res_114_20_UNDEFI.pdf)
 
 
 
