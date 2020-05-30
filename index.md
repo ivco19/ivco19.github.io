@@ -137,7 +137,6 @@ INFIQC y CIQUIBIC. [Anuncio](https://github.com/ivco19/ivco19.github.io/raw/mast
 -   Juan B Cabral (CIFASIS-UNR, IATE-OAC-UNC).
 -   Vanessa Daza (IATE-OAC-UNC, FaMAF-UNC).
 -   Diego García Lambas (IATE-OAC-UNC, FaMAF-UNC).
--   Cristian Griuppone (IATE-OAC-UNC, FaMAF-UNC).
 -   Marcelo Lares (IATE-OAC-UNC, FaMAF-UNC).
 -   Nadia Luczywo (LIMI-FCEFyN-UNC, IED-FCE-UNC, FCA-IUA-UNDEF)
 -   Dante Paz (IATE-OAC-UNC, FaMAF-UNC).
