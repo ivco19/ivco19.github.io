@@ -130,7 +130,9 @@ Resolucón Rectoral UNDEF `114/2020` - **Soporte a la decisión ante COVID-19**:
 ## Charlas y seminarios
 
 - **Ciclo de charlas sobre propagación y evoluciónde epidemias** Se participó en la primera sesión del ciclo donde se abordó la temática *"Modelos matemáticos de propagación y evolución de epidemias"*. Se conto con la participación de investigadores del IFEG, IATE e IITEMA, entre otros, como disertantes de trabajos donde también colaboran investigadores de
-INFIQC y CIQUIBIC. [Anuncio](https://github.com/ivco19/ivco19.github.io/raw/master/images/seminario20200527.jpeg).
+INFIQC y CIQUIBIC. 
+    - [Anuncio](https://github.com/ivco19/ivco19.github.io/raw/master/images/seminario20200527.jpeg). 
+    - [Video del seminario](https://www.youtube.com/watch?v=pRsd_-DDVHU&feature=youtu.be).
 
 ## Miembros del grupo
 
