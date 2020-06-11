@@ -133,6 +133,9 @@ Resolucón Rectoral UNDEF `114/2020` - **Soporte a la decisión ante COVID-19**:
 INFIQC y CIQUIBIC. 
     - [Anuncio](https://github.com/ivco19/ivco19.github.io/raw/master/images/seminario20200527.jpeg). 
     - [Video del seminario](https://www.youtube.com/watch?v=pRsd_-DDVHU&feature=youtu.be).
+    
+- **Seminario en el Grupo de Análisis Numérico y Computación de FaMAF** En este seminario presentamos el trabajo del equipo para el soporte de decisión frente a la pandemia del virus COVID 19 (https://ivco19.github.io). Se describirán brevemente las diferentes líneas de acción generadas (i.e. acceso a bases de datos, visualización, e implementación y análisis de modelos epidemiológicos), así como los problemas sociales en el desarrollo de los mismos.
+    - [Video del seminario](https://www.youtube.com/watch?v=TmVsCRS9gKE&feature=youtu.be).
 
 ## Miembros del grupo
 
