@@ -149,7 +149,7 @@ INFIQC y CIQUIBIC.
 -   Bruno Sanchez (Department of Physics, Duke University).
 -   Federico Stasyszyn (IATE-OAC, FaMAF-UNC).
 
-## Instituciones
+## Afiliaciones
 
 -   [Centro Franco Argentino de Ciencias de la Información y de Sistemas (CIFASIS-UNR)](https://www.cifasis-conicet.gov.ar/)
 -   [Instituto de Astronomía Teórica y Experimental (IATE-OAC-UNC)](http://iate.oac.uncor.edu/)
