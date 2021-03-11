@@ -96,7 +96,9 @@ Resolucón Rectoral UNDEF `114/2020` - **Soporte a la decisión ante COVID-19**:
 
 > Bruno O. Sánchez, Juan B. Cabral, Dante Paz, Nadia A. Luczywo, Vanessa Daza, Carolina Flores, Marcelo Lares, Rodrigo Quiroga, & Federico Stasyszyn. (2020). Sobre el desarrollo de herramientas de soporte de decisión para enfrentar la pandemia de SARS-COVID-19. Anales del XXXIII Encuentro Nacional de Docentes en Investigación Operativa, 1, 359.
 >
-> [Full-Text](https://github.com/ivco19/ivco19.github.io/raw/master/docs/epio/ENDIO-ARCOVID.pdf) [Slides](https://github.com/ivco19/ivco19.github.io/raw/master/docs/epio/slides.pdf) [Bibtext](https://raw.githubusercontent.com/ivco19/ivco19.github.io/master/docs/epio/epio2020.bib)
+> [Full-Text](https://github.com/ivco19/ivco19.github.io/raw/master/docs/epio/ENDIO-ARCOVID.pdf) 
+> [Slides](https://github.com/ivco19/ivco19.github.io/raw/master/docs/epio/slides.pdf) 
+> [Bibtext](https://raw.githubusercontent.com/ivco19/ivco19.github.io/master/docs/epio/epio2020.bib)
 
 ## Notas de prensa
 
