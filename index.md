@@ -6,7 +6,6 @@ la Argentina y el mundo.
 Se centra en 5 ejes de trabajo/productos todos disponibles libre y
 gratuitamente.
 
-
 ## Carga rápida de datos 
 
 **Brooks** es una herramienta de software libre destinada a la carga
