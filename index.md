@@ -76,7 +76,6 @@ respuestas al virus en función de la edad de los individuos.
 - Proyecto: [https://github.com/ivco19/countries](https://github.com/ivco19/countries)
 - Documentación: [https://ivcov19-countries.readthedocs.io](https://ivcov19-countries.readthedocs.io)
 
-
 ----
 
 
