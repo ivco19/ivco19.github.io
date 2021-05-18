@@ -23,10 +23,14 @@
 
         URLS = {
             "db": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTfinng5SDBH9RSJMHJk28dUlW3VVSuvqaBSGzU-fYRTVLCzOkw1MnY17L2tWsSOppHB96fr21Ykbyv/pub",
-            "pagina12_25apr2020": "https://www.pagina12.com.ar/261982-coronavirus-argentina-comparada-con-estados-unidos-brasil-y-"
+            "pagina12_25apr2020": "https://www.pagina12.com.ar/261982-coronavirus-argentina-comparada-con-estados-unidos-brasil-y-",
+            "unc_11apr2020": "https://www.unc.edu.ar/comunicaci%C3%B3n/investigadores-del-observatorio-astron%C3%B3mico-de-c%C3%B3rdoba-proponen-herramientas-para",
+            "oac_06apr2020": "https://oac.unc.edu.ar/2020/04/04/proyecto-arcovid19-herramientas-para-ayudar-a-entender-y-combatir-el-coronavirus/",
+            "anuncio_seminario20200527": "https://github.com/ivco19/ivco19.github.io/raw/master/images/seminario20200527.jpeg"
         };
 
         var url = URLS[findGetParameter("to")];
+        document.write(`Redirecting to <a href="${url}">${url}</a>`);
         window.location.replace(url);
     </script>
 
